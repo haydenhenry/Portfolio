@@ -1,12 +1,10 @@
 
+/*------Type Selectors ------------*/
+
 body {
   text-align: center;
   margin: 0;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-}
-
-header {
-  background-color: lightblue;
 }
 
 h1 {
@@ -27,4 +25,10 @@ ul {
 
 li a {
   color: white;
+}
+
+/* -------------- Class Selectors ------------*/
+
+.main-header {
+  background-color: lightblue;
 }
