@@ -1,15 +1,16 @@
 
 body {
   text-align: center;
+  margin: 0;
+}
+
+header {
+  background-color: lightblue;
 }
 
 h1 {
   font-size: 72px;
   color: white;
-}
-
-header {
-  background-color: lightblue;
 }
 
 p {
