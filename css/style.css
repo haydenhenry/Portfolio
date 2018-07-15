@@ -17,6 +17,7 @@ p {
   font-size: 20px;
   border-top: 2px solid lightgrey;
   padding-top: 70px;
+  padding-bottom: 70px;
 }
 
 ul {
@@ -33,4 +34,23 @@ li a {
 
 .main-header {
   background-color: lightblue;
+}
+
+
+
+
+
+
+/* ----------- Pseudo-Classes ---------------*/
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: purple;
 }
