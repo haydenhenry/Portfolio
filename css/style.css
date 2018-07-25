@@ -44,12 +44,17 @@ li a {
   padding: 50px;
 }
 
-.primary-content {
+.primary-content,
+.secondary-content {
   width: 45%;
 }
 
+.primary-content {
+  float: right;
+}
+
 .secondary-content {
-  width: 45%;
+  float: right;
 }
 
 /* ----------- Pseudo-Classes ---------------*/
