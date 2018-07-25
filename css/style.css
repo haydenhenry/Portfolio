@@ -45,11 +45,11 @@ li a {
 }
 
 .primary-content {
-
+  width: 45%;
 }
 
 .secondary-content {
-  
+  width: 45%;
 }
 
 /* ----------- Pseudo-Classes ---------------*/
